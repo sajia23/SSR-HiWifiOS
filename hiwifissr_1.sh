@@ -12,7 +12,7 @@ sleep 3
 echo 'Downloading files... 正在下载插件'
 echo '
 '
-curl -k -o ss.tar.gz  https://github.com/uwtom/SSR-HiWifiOS/raw/master/ssr-client-hiwifi.tar.gz 
+curl -k -o ss.tar.gz https://github.com/sajia23/SSR-HiWifiOS/blob/master/ssr-client-hiwifi.tar.gz 
 echo 'Done! 下载完成'
 echo '
 '
